@@ -1,4 +1,4 @@
-My first Front-End Project using HTML only
+My first Front-End Repository using HTML only
 That's include doing class with:
 -The starting project code
 -Tags: 
