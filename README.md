@@ -11,9 +11,6 @@ That's include doing class with:
 <form> - a simple form base
 <input> - set some code like "button" example
 <img> - give a image for the page and alt="" accompliment
-<a> - take a connection using base gerally href=""(for search the direct link on name), that you can use a variable name.
-    
-
-    
+<a> - take a connection using base gerally href=""(for search the direct link on name), that you can use a variable name.        
 With all of that, we made the base of a website using front-end
 
